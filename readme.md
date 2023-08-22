@@ -15,6 +15,6 @@ I have experience in malware development, and system programming. Ah, these old 
 
 # Contacts.
 
-+ [**Me on matrix.org**](https://matrix.to/#/nitrogenez)
++ [**Me on matrix.org**](https://matrix.to/#/@nitrogenez:matrix.org)
 + [**Me on X.com**](https://X.com/the_nitrogenez)
 + [**Me on Fediverse**](https://pl.m0e.space/nitrogenez)
