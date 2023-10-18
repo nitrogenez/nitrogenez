@@ -1,12 +1,8 @@
 # Hi. Name's Andrew.
 
-I'm a 29 y.o developer. My heart belongs to my fiancé. I'm a well-experienced C++ developer. If you want to chat, be my guest. I'm available almost 24/7 on Matrix, link to which you may find somewhere down this readme.  
-
-I'm not quite good at collaboration and team work, but I will try, if there's a need for that. I'm a social media hater because of MySpace and Facebook thing. But still kinda using it. Once a month.  
-
-I don't like Rust, but still use it from time to time, because it's fun. I mainly use C++, and don't use C at all, because it's not safe at all, and I'm a dumbass. However, I recently discovered Zig, so I'm slowly returning to C from time to time, just because I love it.  
-
-I have experience in malware development, and system programming. Ah, these old days. Anyways, I'm open to communication and will help if needed.
+29 y.o programmer. I like to be left alone and doing my job. Wanna chat? Be my guest. My contacts are down in the readme.  
+Primarily work with Zig now. Worked with C++ before. I liked it. But Zig is too good to be left behind yet.  
+I'm not active. I'm almost always busy with my job and house chores.
 
 # My statistics.
 
