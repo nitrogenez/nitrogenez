@@ -8,5 +8,4 @@ Primarily work with Zig now. Worked with C++ before. I liked it. But Zig is too 
 
 # Contacts.
  [Matrix](https://matrix.to/#/@nitrogenez:matrix.org)  
-<a href="https://pl.m0e.space/users/nitrogenez" rel="me">Fediverse (ua)</a>  
-[Fediverse (en)](https://social.linux.pizza/@nitrogenez)
+<a href="https://pl.m0e.space/users/nitrogenez" rel="me">Fediverse</a>  
