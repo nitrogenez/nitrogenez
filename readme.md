@@ -1,6 +1,6 @@
 # Hi. Name's Andrij.
 
-29 y.o programmer. I like to be left alone and doing my job. Wanna chat? Be my guest. My contacts are down in the readme.  
+A millenial. I like to be left alone and doing my job. Wanna chat? Be my guest. My contacts are down in the readme.  
 Primarily work with Zig now. Worked with C++ before. I liked it. But Zig is too good to be left behind yet.  
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nitrogenez&count_private=true&theme=tokyonight&showicons=true)]()  
